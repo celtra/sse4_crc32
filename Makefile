@@ -1,5 +1,5 @@
-NODE_GYP = ./node_modules/.bin/node-gyp
-TAP = ./node_modules/.bin/tap
+NODE_GYP = /home/neo/.nvm/v0.8.26/lib/node_modules/npm/bin/node-gyp-bin/node-gyp
+TAP = /home/neo/.npm/tap
 TEST_FILES = test/*.test.js
 BENCHMARK_FILES = benchmark/*.benchmark.js
 
